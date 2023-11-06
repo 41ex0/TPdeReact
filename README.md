@@ -2,7 +2,7 @@
 
 ## Live on vercel
 
-https://brenda-mollaret.vercel.app/
+
 
 ## Dependencias usadas
 
